@@ -16,6 +16,11 @@ body {
   text-align: center;
 }
 
+.logo{
+  width: 30%;
+  height: 30%;
+}
+
 .home-header {
   color: rgb(0, 0, 0);
   width: 100%;

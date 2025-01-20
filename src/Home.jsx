@@ -5,6 +5,7 @@ function Home() {
     <div className='home-app'>
       <header className='home-header'>
         <h1>Welcome to Retro</h1>
+        <img className="logo" src="images/logo.jpg"/>
       </header>
       <main>
         <section className='home-intro'>
